@@ -1,6 +1,6 @@
-# FlowHistoryCleaner
+# Flow History Cleaner
 
-Application that deletes the Table and the queues in the Logic app Standard storage account 
+Application that deletes the Tables and the Queues in the Logic app Standard storage account.
 
 ## How to download  the application
 
