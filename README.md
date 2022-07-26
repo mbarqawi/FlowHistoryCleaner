@@ -7,6 +7,7 @@ Application that deletes the Tables and the Queues in the Logic app Standard sto
 Open the Kudo https://docs.microsoft.com/en-us/azure/app-service/resources-kudu from Logic app site 
 
 Then chose CMD 
+
 ![image](https://user-images.githubusercontent.com/891607/180943465-1c8ae261-91ce-4b75-ac41-242d4284fcbf.png)
 
 
