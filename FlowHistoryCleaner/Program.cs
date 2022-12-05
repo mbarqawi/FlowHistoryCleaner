@@ -60,9 +60,9 @@ namespace FlowHistoryCleaner
         static private bool PromptConfirmation(string confirmText)
         {
             Console.Write(confirmText + " [y/n] : ");
-            ConsoleKey response = Console.ReadKey(false).Key;
+            string response = Console.ReadLine();
             Console.WriteLine();
-            return (response == ConsoleKey.Y);
+            return (response.ToLower() =="y" );
         }
 
     }
